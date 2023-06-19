@@ -10,7 +10,7 @@
 
 
 
-public class task1 {
+public class lesson2 {
     public static void main(String[] args) throws Exception {
         String [] list = lib.ReadLineFromFile("dataForSelect.txt");
         System.out.println(list[0]);
